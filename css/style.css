@@ -1,0 +1,28 @@
+﻿#main-header {
+    width: initial;
+    height: 3em;
+    border-style: none none solid none;
+    margin-bottom: 2em;
+}
+
+/* #go-button{
+    
+    margin-top: 2em;
+    margin-left: 2em;
+    
+}
+
+#top-stories{
+    width: 200px;
+    float: left;
+} */
+ 
+.my-input, .my-textarea{
+    display: block;
+    width: 90%;
+    margin: 10px;
+    padding: 10px 20px;
+    border: 1px solid #aaa;
+    margin-bottom: 2em;
+    resize: vertical;
+}

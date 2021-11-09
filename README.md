@@ -1,1 +1,1 @@
-# Js
+# Javascript basical
